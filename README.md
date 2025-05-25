@@ -1,2 +1,3 @@
-# A-Y-agri-for-plants
-To decribe plants diseases and treaments when someone sent plants pictures 
+# AY Agri App
+
+This app helps identify plant diseases from images and recommends suitable treatments.
